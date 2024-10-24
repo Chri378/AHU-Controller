@@ -1,0 +1,12 @@
+{
+    "name": "AHU_Controller",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "ahucontroller.json",
+            "credentialsFile": "ahucontroller_cred.json"
+        }
+    }
+}
